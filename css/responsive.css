@@ -1,0 +1,279 @@
+/* Responsive css code start */
+
+ /**
+ *low resulation mobile  phone--glaxi fold
+ */
+ @media(min-width:279px) and(max-width:319px){
+
+}
+/* most of the smartphone device */
+@media(min-width:320px) and(max-width:480px){
+/* *code start */
+/* *gobal css code here */
+.container{
+   width: 90%;
+   margin:0px auto;
+}
+
+.row{
+   width: 100%;
+   float: left;
+}
+.col-lg-3{
+   width: 100%;
+   float: left;
+}
+
+.col-lg-6{
+   width: 100%;
+   float: left;
+}
+.col-lg-9{
+   width: 100%;
+   float: left;
+}
+.col-lg-12{
+   width: 100%;
+   float: left;
+}
+.header .logo{
+   text-align: center;
+   width: 100%;
+}
+
+.header .logo img{
+   width: 150px;
+}
+
+.header .navbar{
+   text-align: left;
+}
+
+.header .navbar li a{
+   font-size: 12px;
+   margin: 15px 0px 0px 15px;
+}
+.online-section{
+   padding: 30px 0px;
+}
+.innner-online h1{
+   font-size: 28px;
+   line-height: 38px;
+}
+
+.innner-online p{
+   font-size: 12px;
+   line-height: 22px;
+}
+.innner-online .banner-img{
+   width: 80%;
+}
+.inner-feature{
+   margin: 0px 0px 15px;
+}
+
+.footer{
+    width: 100%;
+    float: left;
+    padding: 20px 0px;
+    text-align: center;
+    background: #1870ff;;
+}
+.footer p{
+font-size: 14px;
+line-height: 24px;
+font-weight: 400;
+color:#f0f0f0;
+}
+
+.footer p a{
+    font-weight: 700;
+    letter-spacing: 3px;
+color: #fff;
+}
+   /* code end */
+
+}
+
+
+
+/* mobile phone and low resulation tablet */
+@media(min-width:481px) and(max-width:767px){
+   /* *code start */
+/* *gobal css code here */
+.container{
+   width: 90%;
+   margin:0px auto;
+}
+
+.row{
+   width: 100%;
+   float: left;
+}
+.col-lg-3{
+   width: 100%;
+   float: left;
+}
+
+.col-lg-6{
+   width: 100%;
+   float: left;
+}
+.col-lg-9{
+   width: 100%;
+   float: left;
+}
+.col-lg-12{
+   width: 100%;
+   float: left;
+}
+.header .logo{
+    text-align: center;
+    width: 100%;
+ }
+ 
+ .header .logo img{
+    width: 150px;
+ }
+ 
+ .header .navbar{
+    text-align: left;
+ }
+ 
+ .header .navbar li a{
+    font-size: 12px;
+    margin: 15px 0px 0px 15px;
+ }
+ .online-section{
+    padding: 30px 0px;
+ }
+ .innner-online h1{
+    font-size: 28px;
+    line-height: 38px;
+ }
+ 
+ .innner-online p{
+    font-size: 12px;
+    line-height: 22px;
+ }
+ .innner-online .banner-img{
+    width: 80%;
+ }
+ .inner-feature{
+    margin: 0px 0px 15px;
+ }
+ 
+ .footer{
+     width: 100%;
+     float: left;
+     padding: 20px 0px;
+     text-align: center;
+     background: #1870ff;;
+ }
+ .footer p{
+ font-size: 14px;
+ line-height: 24px;
+ font-weight: 400;
+ color:#f0f0f0;
+ }
+ 
+ .footer p a{
+     font-weight: 700;
+     letter-spacing: 3px;
+ color: #fff;
+ }
+
+   /* code end */
+
+}
+/* notebook,tablet */
+@media(min-width:768px) and(max-width:1024px){
+/* *code start */
+/* *gobal css code here */
+.container{
+    width: 90%;
+    margin:0px auto;
+ }
+ 
+ .row{
+    width: 100%;
+    float: left;
+ }
+ .col-lg-3{
+    width: 100%;
+    float: left;
+ }
+ 
+ .col-lg-6{
+    width: 100%;
+    float: left;
+ }
+ .col-lg-9{
+    width: 100%;
+    float: left;
+ }
+ .col-lg-12{
+    width: 100%;
+    float: left;
+ }
+
+ .header .logo{
+    text-align: center;
+    width: 100%;
+ }
+ 
+ .header .logo img{
+    width: 150px;
+ }
+ 
+ .header .navbar{
+    text-align: left;
+ }
+ 
+ .header .navbar li a{
+    font-size: 12px;
+    margin: 15px 0px 0px 15px;
+ }
+ .online-section{
+    padding: 30px 0px;
+ }
+ .innner-online h1{
+    font-size: 28px;
+    line-height: 38px;
+ }
+ 
+ .innner-online p{
+    font-size: 12px;
+    line-height: 22px;
+ }
+ .innner-online .banner-img{
+    width: 80%;
+ }
+ .inner-feature{
+    margin: 0px 0px 15px;
+ }
+ 
+ .footer{
+     width: 100%;
+     float: left;
+     padding: 20px 0px;
+     text-align: center;
+     background: #1870ff;;
+ }
+ .footer p{
+ font-size: 14px;
+ line-height: 24px;
+ font-weight: 400;
+ color:#f0f0f0;
+ }
+ 
+ .footer p a{
+     font-weight: 700;
+     letter-spacing: 3px;
+ color: #fff;
+ }
+ 
+    /* code end */
+}
+
+/*Resonsive css code end*/
